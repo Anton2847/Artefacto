@@ -1,0 +1,6 @@
+com.example.artefacto001.test.app-tracing-1.2.0-0 C:\Users\USER\.gradle\caches\8.9\transforms\6c8570e51bdab1c74cd3bd0c66278abd\transformed\tracing-1.2.0\res
+com.example.artefacto001.test.app-core-1.6.1-1 C:\Users\USER\.gradle\caches\8.9\transforms\829083d575757340427ac0f39d3d4c92\transformed\core-1.6.1\res
+com.example.artefacto001.test.app-androidTest-2 E:\Bangkit\Artefacto001\app\build\generated\res\resValues\androidTest\debug
+com.example.artefacto001.test.app-mergeDebugAndroidTestResources-3 E:\Bangkit\Artefacto001\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.artefacto001.test.app-mergeDebugAndroidTestResources-4 E:\Bangkit\Artefacto001\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.artefacto001.test.app-debugAndroidTest-5 E:\Bangkit\Artefacto001\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources
